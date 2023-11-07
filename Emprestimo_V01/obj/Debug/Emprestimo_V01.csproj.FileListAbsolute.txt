@@ -1,0 +1,17 @@
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\bin\Debug\Emprestimo_V01.exe.config
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\bin\Debug\Emprestimo_V01.exe
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\bin\Debug\Emprestimo_V01.pdb
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.frmLogin.resources
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.Properties.Resources.resources
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.exe
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.pdb
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\bin\Debug\BD_Emprestimo_V01.mdb
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.frmMenu.resources
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.frmAmigos.resources
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.frmCategoria.resources
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.frmContactos.resources
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.frmEmprestimos.resources
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.frmGrupos.resources
+C:\Users\hp\Documents\Joelson Botelho\TLP\Emprestimo_V01\Emprestimo_V01\obj\Debug\Emprestimo_V01.frmItens.resources
